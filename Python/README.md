@@ -15,3 +15,5 @@ Topics covered:
 - Logic Building
 
 I will upload my Python practice notebooks and projects here.
+
+print ("hii chatgpt")
